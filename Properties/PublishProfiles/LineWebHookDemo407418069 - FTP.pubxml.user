@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此檔案由您的 Web 專案發佈/封裝處理序使用。您可以藉由編輯此 MSBuild 檔案，
+自訂此處理序的行為。若要深入了解，請前往 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAX9UGJQe/JEqCevCqhvR08AAAAAACAAAAAAAQZgAAAAEAACAAAAC4FrqEZWWYnXYiaGQFA+ErYY5SuOqJ4f8/e+sDh43kGQAAAAAOgAAAAAIAACAAAAAuKa3WwTFFZ3u58WxnatYxsmE63aMNzYXQbDtV3pAxVoAAAABMwX1Ae8sSNs4whPGSNZ/m8xeGotx3pVmvKt2JgjT2AovVwzvRBu0R2DB+rcTMHsArKmrUz/Y9yHn0NEJGng76N8mfr866J0r4ebFAkhNJ8kA8K7lSytvBmJxnwdNLBOQ3+NzmHYfqAuW83+REAz13qIB8rrxcYBe9xhEBw+PJnkAAAAA5Joikhrby6NN/NZs8lsrZRojPNqJf442BKk58izgcUaOs6WU7xmopfuyWxrIe6jyjIioDcJyvCv+q8rEqIHvk</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-sg1-051.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/28/2020 13:51:55</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/11/2020 01:14:06</publishTime>
+    </File>
+    <File Include="global.json">
+      <publishTime>04/30/2020 16:38:33</publishTime>
+    </File>
+    <File Include="LineBotSDK.dll">
+      <publishTime>04/21/2020 16:30:32</publishTime>
+    </File>
+    <File Include="LineWebHook.deps.json">
+      <publishTime>05/11/2020 01:26:10</publishTime>
+    </File>
+    <File Include="LineWebHook.dll">
+      <publishTime>05/11/2020 01:26:10</publishTime>
+    </File>
+    <File Include="LineWebHook.exe">
+      <publishTime>05/11/2020 01:26:10</publishTime>
+    </File>
+    <File Include="LineWebHook.pdb">
+      <publishTime>05/11/2020 01:26:10</publishTime>
+    </File>
+    <File Include="LineWebHook.runtimeconfig.json">
+      <publishTime>05/11/2020 01:26:10</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>07/27/2019 17:27:44</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>07/27/2019 17:27:45</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/11/2020 01:26:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
