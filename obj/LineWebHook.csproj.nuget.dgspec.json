@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jc120\\Desktop\\淡江大四下\\多媒體處理技術\\109XXXX_MMP_W9\\LineWebHook\\LineWebHook.csproj": {}
+    "/home/cloud0822/sources/repos/LineWebHook/LineWebHook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jc120\\Desktop\\淡江大四下\\多媒體處理技術\\109XXXX_MMP_W9\\LineWebHook\\LineWebHook.csproj": {
+    "/home/cloud0822/sources/repos/LineWebHook/LineWebHook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jc120\\Desktop\\淡江大四下\\多媒體處理技術\\109XXXX_MMP_W9\\LineWebHook\\LineWebHook.csproj",
+        "projectUniqueName": "/home/cloud0822/sources/repos/LineWebHook/LineWebHook.csproj",
         "projectName": "LineWebHook",
-        "projectPath": "C:\\Users\\jc120\\Desktop\\淡江大四下\\多媒體處理技術\\109XXXX_MMP_W9\\LineWebHook\\LineWebHook.csproj",
-        "packagesPath": "C:\\Users\\jc120\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jc120\\Desktop\\淡江大四下\\多媒體處理技術\\109XXXX_MMP_W9\\LineWebHook\\obj\\",
+        "projectPath": "/home/cloud0822/sources/repos/LineWebHook/LineWebHook.csproj",
+        "packagesPath": "/home/cloud0822/.nuget/packages/",
+        "outputPath": "/home/cloud0822/sources/repos/LineWebHook/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jc120\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/cloud0822/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }
